@@ -1,0 +1,2 @@
+-e git+https://github.com/SpotDraft/silver.git@ecd7a27fa3f0ec7b039398c81f89147a57d1deed#egg=django_silver
+instamojo-wrapper==1.1

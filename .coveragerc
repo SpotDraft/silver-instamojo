@@ -1,0 +1,7 @@
+[run]
+omit =
+	tests/*
+	silver_instamojo/migrations/*
+	silver_instamojo/__init__.py
+	silver_instamojo/models/__init__.py
+	silver_instamojo/urls.py

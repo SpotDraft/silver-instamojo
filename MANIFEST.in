@@ -1,0 +1,9 @@
+include LICENSE
+include README.md
+recursive-include silver_instamojo/templates *
+include requirements.test.txt
+include requirements.txt
+graft silver_instamojo
+global-exclude *.orig *.pyc *.log *.swp
+include versioneer.py
+include silver_instamojo/_version.py
